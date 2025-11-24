@@ -29,6 +29,16 @@ The board separates logic control power from LED power, ensuring stable communic
 
 ---
 
+---
+
+## What's in the kit?
+
+* 1x HarlechXL Board
+* 1x 2.54mm Screw Terminal to bring in your high power 5V.
+* 1x QWIIC/StemmaQT Cable - may not use conventional color order.
+* 4x (2x8) pin header
+* 
+
 ## Host Controller Requirement
 
 Harlech XL PG2.0 is a controlled peripheral board and does not generate lighting behaviour on its own. It requires a host microcontroller to send commands over I2C to define brightness levels, animations, and lighting effects.
