@@ -6,8 +6,7 @@
 
 **Manufacturer:** TerrainTronics
 
-<img src="[https://github.com/user-attachments/assets/59f44cc5-b9f9-41ce-8df6-d68dc172c54c](https://github.com/user-attachments/assets/59f44cc5-b9f9-41ce-8df6-d68dc172c54c)" width="400">
-
+<img src="https://github.com/user-attachments/assets/59f44cc5-b9f9-41ce-8df6-d68dc172c54c" width="400">
 ---
 
 ## Overview
@@ -367,6 +366,7 @@ For recessed mounting into terrain or structural panels, a recommended rectangul
 ### Mechanical Reference Image
 
 Refer to the mechanical drawing below for precise placement and enclosure design:
+<img width="1828" height="1914" alt="HarlechPG2p0Mechanical" src="https://github.com/user-attachments/assets/76308ecc-60a7-4e72-be55-1044ae1966c8" />
 
 ![Harlech XL PG2.0 Mechanical Drawing](HarlechPG2p0Mechanical.png)
 
