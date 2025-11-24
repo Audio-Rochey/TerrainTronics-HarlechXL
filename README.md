@@ -29,15 +29,19 @@ The board separates logic control power from LED power, ensuring stable communic
 
 ---
 
----
-
 ## What's in the kit?
 
 * 1x HarlechXL Board
 * 1x 2.54mm Screw Terminal to bring in your high power 5V.
 * 1x QWIIC/StemmaQT Cable - may not use conventional color order.
 * 4x (2x8) pin header
-* 
+
+## Schematic and Layout
+
+[Here's the Schematic for PG2P0](HarlechXLpg2p0Schematic.pdf)
+
+[Here's the top layer layout](HarlechXLpg2p0layouttop.pdf)
+
 
 ## Host Controller Requirement
 
